@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Split the Bill App</string>
+    <string name="txtTitle">Welcome to Marchfelderhof Restaurant</string>
+    <string name="btnSplitBill">Split Bill</string>
+    <string name="txtPrompt">Please Enter Input</string>
+    <string name="txtBill">Enter Amount of the Bill</string>
+    <string name="txtNumberOfPeople">Enter Number Of People</string>
+    <string name="image2">Split Bill</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="txtTip">Tip Amount:</string>
+    <string name="txtBillPerPeople">Bill Per People:</string>
+    <string name="image1">Restaurant</string>
+    <string-array name="quality">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
